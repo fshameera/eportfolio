@@ -545,6 +545,6 @@ elif selected == "Contact":
         <div style='margin-top: 40px; text-align: center;'>
             <h2 style='color: #FF4500;'>Let’s Connect</h2>
             <p style='font-size: 16px; line-height: 1.6;'>I’m open to collaboration, exciting projects, or just a friendly conversation. Feel free to reach out through any of the above methods!</p>
-            <a href='https://www.linkedin.com/in/yasas-gunarathna-5a9546227/' target='_blank' style='padding: 10px 20px; background-color: #FF4500; color: #FFF; text-decoration: none; border-radius: 5px; display: inline-block;'>Connect on LinkedIn</a>
+            <a href='https://www.linkedin.com/in/weera-gunarathne-5a9546227' target='_blank' style='padding: 10px 20px; background-color: #FF4500; color: #FFF; text-decoration: none; border-radius: 5px; display: inline-block;'>Connect on LinkedIn</a>
         </div>
     """, unsafe_allow_html=True)
